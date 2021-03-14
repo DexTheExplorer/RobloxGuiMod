@@ -1,6 +1,11 @@
 # RobloxGuiMod
 ### Version 0.0.1
-A simple texture modification tool for Roblox.
+A simple UI texture modification tool for Roblox.
+
+**THIS ONLY WORKS INGAME AND NOT STUDIO OR ON THE WEBSITE.**
+
+Currently, amoled pink is loaded inside the "adds" folder. You can modify the image files as you wish.
+
 Automatic install only works on Windows 10 and Windows 8.
 
 ## How to use?
